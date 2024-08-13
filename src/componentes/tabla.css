@@ -1,0 +1,16 @@
+.custom-table {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-radius: 10px !important;
+}
+
+.custom-table th,
+.custom-table td {
+  color: #080112 !important;
+  background-color: #bf96e5 !important;
+}
+
+.custom-table th {
+  background-color: #f8f837!important;
+  color: #000000 !important;
+}
